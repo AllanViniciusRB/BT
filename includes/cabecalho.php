@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/css/cabecalho.css">
+    <link rel="stylesheet" href="/assets/css/rodape.css">
     <title>BuscaTec</title>
 </head>
 <body>
@@ -23,7 +24,7 @@
                 <li><a href="">Serviços</a></li>
                 <li><a href="/admin/usuarios/cadastrar.php">Minha Conta</a></li>
                 <li><a href="/admin/admin/admnistrativo.php">Administrativo</a></li>
-                <li><a href="/assets/Itens/Termos de Uso da BuscaTec.pdf">Sobre</a></li>
+                <li><a href="/admin/Infos/perfil.php">Perfil</a></li>
             </ul>
 
         </div>

@@ -25,7 +25,7 @@ $perfilUsuario = $usuarioController->getInformacoesPerfil();
 <body>
 
 <div class="container mt-5">
-    <h1 class="mb-4">Meu Perfil</h1>
+    <h1 class="mb-4">Login</h1>
 
     <div class="row">
         <div class="col-md-6">

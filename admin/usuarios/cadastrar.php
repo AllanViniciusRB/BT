@@ -35,7 +35,7 @@ $usuarioController->cadastrarUsuario();
         <div class="caixa">
 
             <img src="/assets/img/a.png" alt="">
-            <h1>Cadastrar</h1>
+            <h1>Cadastrar</h1><br>
             <form action="cadastrar.php" method="post">
 
                 <div class="name">
@@ -66,8 +66,9 @@ $usuarioController->cadastrarUsuario();
 
                 <div class="entrar">
                     <p>Ja possui cadastro? <a href="/admin/admin/login.php">Entre agora.</a></p>
+                    <br>
                     <input type="submit" value="Cadastrar">
-                </div>
+                </div><br>
             </form>
 
         </div>

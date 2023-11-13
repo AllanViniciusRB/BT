@@ -2,16 +2,16 @@
     font-family: 'Roboto',sans-serif;
     background-color: #FF8C00;
     color: #fff;
-    padding: 1px;
+    padding: 10px;
     margin: 0;
     text-align: center;
     bottom: 0;
     width: 100%;
     z-index: 1;
-    display: flex;
+    display: fixed;
     align-items: center;
     justify-content: center; /* Centraliza horizontalmente */
-    flex-direction: column;
+
 }
 
 .rodape img {

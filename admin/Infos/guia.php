@@ -35,7 +35,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/cabecalho.php";
 
     <h3>Fazendo o login na sua conta</h3><br>
     <ol>
-        <li>Vá para a página inicial do BuscaTec.</li>
+        <li>Vá para a página inicial do <a href="">BuscaTec</a></li>
         <li>Clique em "Login" e insira seu nome de usuário ou endereço de e-mail e senha.</li>
         <li>Clique em "Entrar" para acessar sua conta.</li>
     </ol><br>
@@ -53,15 +53,18 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/cabecalho.php";
     </ol><br>
     <h2>Visualizando perfis de profissionais</h2><br>
     <ol>
-        <li>Explore os perfis dos profissionais listados.</li>
+        <li>Explore os perfis dos <a href="">profissionais</a> listados</li>
         <li>Clique no nome de um profissional para visualizar detalhes completos.</li>
     </ol><br>
+
     <h1>3. Contratação de Profissionais</h1><br>
-    <h4>Enviando mensagens aos profissionais</h4>
+
+    <h4>Enviando mensagens aos profissionais</h4><br>
     <ol>
-        <li>No perfil do profissional, clique em "Enviar Mensagem</li>
+        <li>No perfil do profissional, clique em "Enviar Mensagem"</li>
         <li>Digite sua mensagem e clique em "Enviar".</li>
     </ol><br>
+
     <h3>Avaliando perfis e avaliações</h3><br>
     <ol>
         <li>Analise as habilidades, experiência e avaliações de outros usuários.</li>
@@ -84,23 +87,24 @@ require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/cabecalho.php";
         <li>Aqui você pode alterar sua senha, e-mail e outras configurações.</li>
     </ol><br>
     <h1>5. Termos de Uso e Sobre a BuscaTec </h1><br>
+
     <h4>Acesse informações detalhadas sobre a empresa BuscaTec</h4><br>
     <ol>
-        <li>No rodapé do site, encontre os links para "Termos de Uso" e "Sobre Nós".</li>
+        <li>No rodapé do site, encontre os links para <a href="/assets/Itens/Termos de Uso da BuscaTec.pdf">Termos de Uso</a> e <a href="/admin/Infos/quemsomos.php">Quem Somos</a>.</li>
         <li>Leia as informações para entender melhor os serviços e políticas.</li>
     </ol><br>
     <h1>6. Perguntas Frequentes</h1><br>
     <h4>Dicas para uma busca bem-sucedida</h4><br>
     <ol>
-        <li>Visite a seção de "Dicas de Busca" para orientações úteis.</li>
+        <li>Visite a seção de "<a href="">Dicas de Busca</a>" para orientações úteis.</li>
         <li>Utilize palavras-chave específicas para obter resultados mais precisos.</li>     
     </ol><br>
     <h3>Solução de problemas comuns</h3><br>
     <ol>
-        <li>Confira a seção de "Ajuda" para solucionar problemas frequentes.</li>
+        <li>Confira a seção de "<a href="">Ajuda</a>" para solucionar problemas frequentes.</li>
         <li>Entre em contato com o suporte técnico se precisar de assistência adicional.</li>
     </ol><br>
-    <p>Esperamos que este manual facilite sua experiência no BuscaTec. Se tiver dúvidas adicionais, consulte nossa seção de suporte ou entre em contato conosco diretamente. Boa busca e contratação!</p>
+    <p>Esperamos que este manual facilite sua experiência no BuscaTec. Se tiver dúvidas adicionais, consulte nossa seção de suporte ou entre em contato conosco diretamente.</p>
     </div>
 </body>
 
