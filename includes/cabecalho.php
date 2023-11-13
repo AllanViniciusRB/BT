@@ -17,6 +17,7 @@
         <div class="menu">
             <ul>
                 <li><a href="/">Inicio</a></li>
+                <li><a href="/admin/Infos/guia.php">Guia</a></li>
                 <li><a href="/admin/Infos/quemsomos.php">Quem somos</a></li>
                 <li><a href="/admin/Infos/planos.php">Planos</a></li>
                 <li><a href="">Serviços</a></li>
@@ -28,4 +29,3 @@
         </div>
     </header>
 </body>
-</html>

@@ -15,14 +15,12 @@
 </head>
 <body>
     <header>
-        
+
     </header>
-    
+
 </body>
 </html>
 
 <?php
-
     require_once $_SERVER['DOCUMENT_ROOT'] . "/includes/rodape.php";
-
 ?>
