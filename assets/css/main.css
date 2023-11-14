@@ -203,7 +203,7 @@ input:focus {
 /* Privacidade */
 
 h2 {
-    color: #333;
+    color: black;
 }
 
 p {
@@ -258,11 +258,6 @@ h3 {
 
 }
 
-.rodape img {
-    width: 30px; 
-    height: 30px; 
-    margin-right: 0px; 
-}
 
 /* Estilize o texto de direitos autorais */
 .rodape ul {
@@ -283,7 +278,14 @@ h3 {
 .rodape a:hover {
     text-decoration: underline;
 }
-
+.linha-rodape{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+.coluna-rodape{
+    flex: 1;
+}
 /* Guia */
 
 
