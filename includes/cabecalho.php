@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/assets/css/cabecalho.css">
-    <link rel="stylesheet" href="/assets/css/rodape.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+
     <title>BuscaTec</title>
 </head>
 <body>
@@ -20,11 +21,12 @@
                 <li><a href="/">Inicio</a></li>
                 <li><a href="/admin/Infos/guia.php">Guia</a></li>
                 <li><a href="/admin/Infos/quemsomos.php">Quem somos</a></li>
-                <li><a href="/admin/Infos/planos.php">Planos</a></li>
+                <li><a href="/">Planos</a></li>
                 <li><a href="">Serviços</a></li>
+                <li><a href="/admin/Infos/agendamentos.php">Agendamentos</a></li>
                 <li><a href="/admin/usuarios/cadastrar.php">Minha Conta</a></li>
                 <li><a href="/admin/admin/admnistrativo.php">Administrativo</a></li>
-                <li><a href="/admin/Infos/perfil.php">Perfil</a></li>
+                <li><a href="/admin/usuarios/perfil.php">Perfil</a></li>
             </ul>
 
         </div>
